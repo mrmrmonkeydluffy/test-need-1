@@ -6,4 +6,4 @@ const main = (apple=2) => {
   }
 };
 
-main();
+main(10);
